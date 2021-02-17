@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Cheque\bin\Debug\Cheque.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Cheque\bin\Debug\Cheque.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Cheque\bin\Debug\Cheque.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Cheque\obj\Debug\Cheque.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Cheque\obj\Debug\Cheque.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Cheque\obj\Debug\Cheque.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Cheque\obj\Debug\Cheque.csprojAssemblyReference.cache

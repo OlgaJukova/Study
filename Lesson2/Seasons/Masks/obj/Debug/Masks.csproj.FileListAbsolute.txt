@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Seasons\Masks\bin\Debug\Masks.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Seasons\Masks\bin\Debug\Masks.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Seasons\Masks\bin\Debug\Masks.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Seasons\Masks\obj\Debug\Masks.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Seasons\Masks\obj\Debug\Masks.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Seasons\Masks\obj\Debug\Masks.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2\Seasons\Masks\obj\Debug\Masks.pdb
