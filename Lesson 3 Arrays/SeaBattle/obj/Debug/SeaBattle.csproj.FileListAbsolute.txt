@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\SeaBattle\obj\Debug\SeaBattle.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\SeaBattle\obj\Debug\SeaBattle.pdb

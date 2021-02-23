@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\Shift\bin\Debug\Shift.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\Shift\bin\Debug\Shift.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\Shift\bin\Debug\Shift.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\Shift\obj\Debug\Shift.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\Shift\obj\Debug\Shift.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\Shift\obj\Debug\Shift.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\Shift\obj\Debug\Shift.pdb
