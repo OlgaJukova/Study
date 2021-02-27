@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\PhoneGuide\obj\Debug\PhoneGuide.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\PhoneGuide\obj\Debug\PhoneGuide.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\PhoneGuide\bin\Debug\PhoneGuide.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\PhoneGuide\bin\Debug\PhoneGuide.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\PhoneGuide\bin\Debug\PhoneGuide.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\PhoneGuide\obj\Debug\PhoneGuide.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays\PhoneGuide\obj\Debug\PhoneGuide.pdb
