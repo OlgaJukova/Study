@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Fibonacci\obj\Debug\Fibonacci.pdb

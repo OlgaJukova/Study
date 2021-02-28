@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\1.Return Full Name\bin\Debug\1.Return Full Name.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\1.Return Full Name\bin\Debug\1.Return Full Name.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\1.Return Full Name\bin\Debug\1.Return Full Name.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\1.Return Full Name\obj\Debug\1.Return Full Name.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\1.Return Full Name\obj\Debug\1.Return Full Name.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\1.Return Full Name\obj\Debug\1.Return Full Name.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\1.Return Full Name\obj\Debug\1.Return Full Name.pdb
