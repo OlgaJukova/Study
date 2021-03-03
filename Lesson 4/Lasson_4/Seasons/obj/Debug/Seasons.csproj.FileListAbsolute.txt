@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Seasons\obj\Debug\Seasons.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Seasons\obj\Debug\Seasons.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Seasons\bin\Debug\Seasons.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Seasons\bin\Debug\Seasons.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Seasons\bin\Debug\Seasons.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Seasons\obj\Debug\Seasons.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Seasons\obj\Debug\Seasons.pdb

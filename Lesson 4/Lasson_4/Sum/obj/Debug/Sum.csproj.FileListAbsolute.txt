@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Sum\bin\Debug\Sum.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Sum\bin\Debug\Sum.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Sum\bin\Debug\Sum.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Sum\obj\Debug\Sum.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Sum\obj\Debug\Sum.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4\Lasson_4\Sum\obj\Debug\Sum.csprojAssemblyReference.cache
