@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\Bin_file\bin\Debug\Bin_file.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\Bin_file\bin\Debug\Bin_file.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\Bin_file\bin\Debug\Bin_file.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\Bin_file\obj\Debug\Bin_file.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\Bin_file\obj\Debug\Bin_file.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\Bin_file\obj\Debug\Bin_file.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\Bin_file\obj\Debug\Bin_file.pdb
