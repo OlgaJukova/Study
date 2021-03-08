@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\1, 2 Text\bin\Debug\1, 2 Text.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\1, 2 Text\bin\Debug\1, 2 Text.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\1, 2 Text\bin\Debug\1, 2 Text.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\1, 2 Text\obj\Debug\1, 2 Text.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\1, 2 Text\obj\Debug\1, 2 Text.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\1, 2 Text\obj\Debug\1, 2 Text.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5\File_sistem\1, 2 Text\obj\Debug\1, 2 Text.pdb
