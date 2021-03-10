@@ -1,0 +1,6053 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_Tree.txt
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_Tree.txt
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\App.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\Directory_tree.csproj
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\obj
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\Program.cs
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\Properties
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\.vs
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directiry and Odjects.sln
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 3 Arrays
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 4
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson 6 . Directory, Objects
+C:\Users\79038\Desktop\Study_Olga_Jukova\lesson1
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson2
+C:\Users\79038\Desktop\Study_Olga_Jukova\Lesson5
+C:\Users\79038\Desktop\Study_Olga_Jukova\SeaBattle
+C:\Users\79038\Desktop\desktop.ini
+C:\Users\79038\Desktop\Study
+C:\Users\79038\Desktop\Study_Olga_Jukova
+C:\Users\79038\Desktop\С #
+C:\Users\79038\.bash_history
+C:\Users\79038\.dotnet
+C:\Users\79038\.gitconfig
+C:\Users\79038\.ssh
+C:\Users\79038\.templateengine
+C:\Users\79038\.viminfo
+C:\Users\79038\3D Objects
+C:\Users\79038\AppData
+C:\Users\79038\Application Data
+C:\Users\79038\Contacts
+C:\Users\79038\Cookies
+C:\Users\79038\Desktop
+C:\Users\79038\Documents
+C:\Users\79038\Downloads
+C:\Users\79038\Favorites
+C:\Users\79038\Links
+C:\Users\79038\Local Settings
+C:\Users\79038\Music
+C:\Users\79038\NetHood
+C:\Users\79038\NTUSER.DAT
+C:\Users\79038\ntuser.dat.LOG1
+C:\Users\79038\ntuser.dat.LOG2
+C:\Users\79038\NTUSER.DAT{21b3d55f-0137-11eb-835a-80304993b0d2}.TM.blf
+C:\Users\79038\NTUSER.DAT{21b3d55f-0137-11eb-835a-80304993b0d2}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\79038\NTUSER.DAT{21b3d55f-0137-11eb-835a-80304993b0d2}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\79038\ntuser.ini
+C:\Users\79038\OneDrive
+C:\Users\79038\Pictures
+C:\Users\79038\PrintHood
+C:\Users\79038\progect
+C:\Users\79038\Recent
+C:\Users\79038\Saved Games
+C:\Users\79038\Searches
+C:\Users\79038\SendTo
+C:\Users\79038\source
+C:\Users\79038\Videos
+C:\Users\79038\главное меню
+C:\Users\79038\Мои документы
+C:\Users\79038\Шаблоны
+C:\Users\79038
+C:\Users\All Users
+C:\Users\Default
+C:\Users\Default User
+C:\Users\desktop.ini
+C:\Users\Public
+C:\Users\Все пользователи
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга
+C:\$Recycle.Bin
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Drivers
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\pagefile.sys
+C:\PerfLogs
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\swapfile.sys
+C:\System Volume Information
+C:\Users
+C:\Windows
+C:\Обучение
+C:\Ольга

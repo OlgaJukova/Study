@@ -1,0 +1,6 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Sum_of_array_elements\bin\Debug\Sum_of_array_elements.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Sum_of_array_elements\bin\Debug\Sum_of_array_elements.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Sum_of_array_elements\bin\Debug\Sum_of_array_elements.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Sum_of_array_elements\obj\Debug\Sum_of_array_elements.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Sum_of_array_elements\obj\Debug\Sum_of_array_elements.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Sum_of_array_elements\obj\Debug\Sum_of_array_elements.pdb

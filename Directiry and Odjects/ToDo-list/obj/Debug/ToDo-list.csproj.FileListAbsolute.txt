@@ -1,0 +1,17 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\ToDo-list.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\ToDo-list.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\ToDo-list.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\obj\Debug\ToDo-list.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\obj\Debug\ToDo-list.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\obj\Debug\ToDo-list.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\obj\Debug\ToDo-list.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\System.Memory.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\System.Text.Json.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\System.Buffers.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\obj\Debug\ToDo-list.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\ToDo-list\obj\Debug\ToDo-list.csproj.CopyComplete
