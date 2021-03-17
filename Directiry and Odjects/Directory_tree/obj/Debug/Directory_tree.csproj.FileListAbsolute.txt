@@ -1,0 +1,7 @@
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.exe.config
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\bin\Debug\Directory_tree.pdb
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\obj\Debug\Directory_tree.csprojAssemblyReference.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\obj\Debug\Directory_tree.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\obj\Debug\Directory_tree.exe
+C:\Users\79038\Desktop\Study_Olga_Jukova\Directiry and Odjects\Directory_tree\obj\Debug\Directory_tree.pdb
